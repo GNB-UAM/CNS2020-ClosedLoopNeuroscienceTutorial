@@ -1,4 +1,6 @@
-# Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments
+# Closed-Loop Neuroscience Tutorial
+
+Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments
 
 CNS 2020 half-day tutorial - July 18th
 
@@ -16,7 +18,7 @@ Rodrigo Amaducci (rodrigo.amaducci@uam.es)
 
 *Grupo de Neurocomputación Biológica. Escuela Politécnica Superior. Universidad Autónoma de Madrid*
 
-http://www.ii.uam.es/~gnb
+<http://www.ii.uam.es/~gnb>
 
 ## Tutorial Description
 
