@@ -4,9 +4,9 @@
 
 CNS 2020 half-day tutorial - July 18th
 
-16:00 - 19:00 Berlin Time
+16:00 - 19:00h Berlin Time
 
-10:00am - 1:00pm New York time
+10:00 - 13:00h New York time
 
 ## Organizers
 
@@ -54,16 +54,17 @@ RTHybrid: <https://github.com/GNB-UAM/RTHybrid>
 
 RTXI: <http://rtxi.org/>
 
+**Important:** For the practical part of the tutorial, please download beforehand the latest RTXI version from http://rtxi.org/install/ and install it. It is not necesary to install it completely in your computer for this tutorial, you can just burn the image to a live-USB following the instructions on the web or install it on a Virtual Machine.
+
 ## Tutorial content and schedule
 
 | Time                                                     | Title                                    | Speaker      |
 |----------------------------------------------------------|------------------------------------------|--------------|
-| 16:00-16:30h Berlin Time <br> 10:00am-10:30am New York Time | Introduction to Closed-loop Neuroscience | Pablo Varona |
-| 16:30-17:00h Berlin Time <br> 10:30am-11:00am New York Time | Hybrid Circuits: interacting living neurons, model neurons and robots | Rodrigo Amaducci |
-| 17:00-17:30h Berlin Time <br> 11:00am-11:30am New York Time | Automatic adaptation and mappings of hybrid circuits | Manuel Reyes-Sánchez |
-| 17:00-17:30h Berlin Time <br> 11:00am-11:30am New York Time | Automatic adaptation and mappings of hybrid circuits | Manuel Reyes-Sánchez |
-| 17:30-17:45h Berlin Time <br> 11:30am-11:45am New York Time | Break |
-| 17:45-19:00h Berlin Time <br> 11:45am-13:00pm New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
+| 16:00-16:30h Berlin Time <br> 10:00-10:30h New York Time | Introduction to Closed-loop Neuroscience | Pablo Varona |
+| 16:30-17:00h Berlin Time <br> 10:30-11:00h New York Time | Hybrid Circuits: interacting living neurons, model neurons and robots | Rodrigo Amaducci |
+| 17:00-17:30h Berlin Time <br> 11:00-11:30h New York Time | Automatic adaptation and mappings of hybrid circuits | Manuel Reyes-Sánchez |
+| 17:30-17:45h Berlin Time <br> 11:30-11:45h New York Time | Break |
+| 17:45-19:00h Berlin Time <br> 11:45-13:00h New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
 
 ## References and background reading
 
@@ -75,16 +76,16 @@ Neuroinformatics.](https://link.springer.com/article/10.1007/s12021-019-09440-z)
 Standardized and Open-Source Real-Time Software Model Library for Experimental
 Neuroscience. Frontiers in Neuroinformatics 13:11.](https://www.frontiersin.org/articles/10.3389/fninf.2019.00011/full)
 
-Patel, Y. A., George, A., Dorval, A. D., White, J. A., Christini, D. J., &amp; Butera, R. J. 2017. Hard real-
+[Patel, Y. A., George, A., Dorval, A. D., White, J. A., Christini, D. J., &amp; Butera, R. J. 2017. Hard real-
 time closed-loop electrophysiology with the Real-Time eXperiment Interface (RTXI). PLoS
-Computational Biology, 13(5), e1005430.
+Computational Biology, 13(5), e1005430.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005430)
 
-P. Varona, D. Arroyo, F.B. Rodriguez, T. Nowotny. Online event detection requirements in
+[P. Varona, D. Arroyo, F.B. Rodriguez, T. Nowotny. Online event detection requirements in
 closed-loop neuroscience. In Closed-Loop Neuroscience. El Hady A. (Ed), Academic Press. 2016.
-ISBN 9780128024522.
+ISBN 9780128024522.](https://www.sciencedirect.com/science/article/pii/B9780128024522000068?via%3Dihub)
 
-P. Chamorro, C. Muñiz, R. Levi, D. Arroyo. F.B. Rodriguez, P. Varona. 2012. Generalization of
-the dynamic clamp concept in neurophysiology and behavior. PLoS ONE 7(7): e40887.
+[P. Chamorro, C. Muñiz, R. Levi, D. Arroyo. F.B. Rodriguez, P. Varona. 2012. Generalization of
+the dynamic clamp concept in neurophysiology and behavior. PLoS ONE 7(7): e40887.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040887)
 
 ---
 
