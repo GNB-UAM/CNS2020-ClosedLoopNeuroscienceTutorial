@@ -1,6 +1,6 @@
-# Closed-Loop Neuroscience Tutorial
+## Closed-Loop Neuroscience Tutorial
 
-Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments
+**Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments**
 
 CNS 2020 half-day tutorial - July 18th
 
@@ -16,7 +16,9 @@ Manuel Reyes Sanchez (manuel.reyes@uam.es)
 
 Rodrigo Amaducci (rodrigo.amaducci@uam.es)
 
-*Grupo de Neurocomputación Biológica. Escuela Politécnica Superior. Universidad Autónoma de Madrid*
+*Grupo de Neurocomputación Biológica.*
+
+*Escuela Politécnica Superior. Universidad Autónoma de Madrid*
 
 <http://www.ii.uam.es/~gnb>
 
@@ -48,9 +50,9 @@ testing their first designs.
 
 ## Software tools
 
-RTHybrid: https://github.com/GNB-UAM/RTHybrid
+RTHybrid: <https://github.com/GNB-UAM/RTHybrid>
 
-RTXI: http://rtxi.org/
+RTXI: <http://rtxi.org/>
 
 ## Tutorial content and schedule
 
@@ -65,13 +67,13 @@ RTXI: http://rtxi.org/
 
 ## References and background reading
 
-M. Reyes-Sanchez, R. Amaducci, I. Elices, F.B. Rodriguez, P. Varona. 2020. Automatic
+[M. Reyes-Sanchez, R. Amaducci, I. Elices, F.B. Rodriguez, P. Varona. 2020. Automatic
 adaptation of model neurons and connections to build hybrid circuits with living networks.
-Neuroinformatics.
+Neuroinformatics.](https://link.springer.com/article/10.1007/s12021-019-09440-z)
 
-R. Amaducci, M. Reyes-Sanchez, I. Elices, F.B. Rodriguez, P. Varona. 2019. RTHybrid: A
+[R. Amaducci, M. Reyes-Sanchez, I. Elices, F.B. Rodriguez, P. Varona. 2019. RTHybrid: A
 Standardized and Open-Source Real-Time Software Model Library for Experimental
-Neuroscience. Frontiers in Neuroinformatics 13:11.
+Neuroscience. Frontiers in Neuroinformatics 13:11.](https://www.frontiersin.org/articles/10.3389/fninf.2019.00011/full)
 
 Patel, Y. A., George, A., Dorval, A. D., White, J. A., Christini, D. J., &amp; Butera, R. J. 2017. Hard real-
 time closed-loop electrophysiology with the Real-Time eXperiment Interface (RTXI). PLoS
