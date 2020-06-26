@@ -6,27 +6,21 @@
 **Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments**
 
 | CNS 2020 half-day tutorial |  July 18th   |
-|----------------------------|--------------|
+|--------------|--------------|
 | Berlin Time   | 16:00 - 19:00h |
 | New York Time | 10:00 - 13:00h |
 
-[*CNS\*2020.*](https://www.cnsorg.org/cns-2020)
-
-[*OCNS.*](https://www.cnsorg.org/)
+[*CNS\*2020 webpage*](https://www.cnsorg.org/cns-2020) and [*OCNS webpage*](https://www.cnsorg.org/).
 
 ## Organizers
 
-| | |
+| Name | Email |
 |----------------------------|--------------|
 | Pablo Varona   | pablo.varona@uam.es |
 | Manuel Reyes Sanchez   | manuel.reyes@uam.es |
 | Rodrigo Amaducci   | rodrigo.amaducci@uam.es |
 
-[*Grupo de Neurocomputación Biológica.*](http://www.ii.uam.es/~gnb)
-
-[*Escuela Politécnica Superior.*](http://www.uam.es/EPS/Home.htm)
-
-[*Universidad Autónoma de Madrid.*](https://www.uam.es/)
+[*Grupo de Neurocomputación Biológica*](http://www.ii.uam.es/~gnb), [*Escuela Politécnica Superior*](http://www.uam.es/EPS/Home.htm), [*Universidad Autónoma de Madrid*](https://www.uam.es/).
 
 ## Tutorial Description
 
