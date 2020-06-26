@@ -99,3 +99,7 @@ https://doi.org/10.3389/fncir.2014.00115)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/GNB-UAM/RTHybrid"> <img src="https://github.com/GNB-UAM/RTHy_plot_tool/raw/master/assets/logo_rthy.png" width="100" height="100"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/GNB-UAM"> <img src="https://github.com/GNB-UAM/RTHy_plot_tool/raw/master/assets/logo_gnb.png" width="100" height="100"> </a>
+
+<br>
+
+<p><small>Page hosted on GitHub Pages. Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
