@@ -1,3 +1,6 @@
+<a target="_blank" rel="noopener noreferrer" href="https://www.uam.es/"> <img src="https://logos-marcas.com/wp-content/uploads/2020/03/UAM-Logo.png" width="100" height="100"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+<a target="_blank" rel="noopener noreferrer" href="https://www.cnsorg.org/cns-2020"> <img src="https://www.cnsorg.org/assets/site/ocns-logo.png" width="100" height="100"> </a>
+
 ## Closed-Loop Neuroscience Tutorial
 
 **Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments**
@@ -54,7 +57,7 @@ RTHybrid: <https://github.com/GNB-UAM/RTHybrid>
 
 RTXI: <http://rtxi.org/>
 
-**Important:** For the practical part of the tutorial, please download beforehand the latest RTXI version from http://rtxi.org/install/ and install it. It is not necesary to install it completely in your computer for this tutorial, you can just burn the image to a live-USB following the instructions on the web or install it on a Virtual Machine.
+**Important:** For the practical part of the tutorial, please download beforehand the latest RTXI version from <http://rtxi.org/install/> and install it. It is not necesary to install it completely in your computer for this tutorial, you can just burn the image to a live-USB following the instructions on the web or install it on a Virtual Machine.
 
 ## Tutorial content and schedule
 
@@ -86,6 +89,11 @@ ISBN 9780128024522.](https://www.sciencedirect.com/science/article/pii/B97801280
 
 [P. Chamorro, C. Muñiz, R. Levi, D. Arroyo. F.B. Rodriguez, P. Varona. 2012. Generalization of
 the dynamic clamp concept in neurophysiology and behavior. PLoS ONE 7(7): e40887.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040887)
+
+[Zrenner, C., Belardinelli, P., Müller-Dahlhaus, F., & Ziemann, U. 2016. Closed-loop neuroscience and non-invasive brain stimulation: a tale of two loops. Frontiers in Cellular Neuroscience, 10, 92.](https://doi.org/10.3389/fncel.2016.00092)
+
+[Potter, S. M., El Hady, A., & Fetz, E. E. 2014. Closed-loop neuroscience and neuroengineering. Frontiers in Neural Circuits, 8, 115.](
+https://doi.org/10.3389/fncir.2014.00115)
 
 ---
 
