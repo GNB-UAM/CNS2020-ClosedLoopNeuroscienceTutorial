@@ -1,5 +1,6 @@
-<a target="_blank" rel="noopener noreferrer" href="https://www.uam.es/"> <img src="https://logos-marcas.com/wp-content/uploads/2020/03/UAM-Logo.png" width="178" height="100"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-<a target="_blank" rel="noopener noreferrer" href="https://www.cnsorg.org/cns-2020"> <img src="https://www.cnsorg.org/assets/site/ocns-logo.png" width="548" height="100"> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.uam.es/"> <img src="https://logos-marcas.com/wp-content/uploads/2020/03/UAM-Logo.png" width="320" height="180"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.cnsorg.org/cns-2020"> <img src="https://www.cnsorg.org/assets/site/ocns-logo.png" width="389" height="67"> </a>
 
 ## Closed-Loop Neuroscience Tutorial
 
