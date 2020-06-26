@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/master/logos.png" width="1340" height="130"> </a>
+<img src="https://raw.githubusercontent.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/master/logos.png" width="957" height="93">
 
 ## Closed-Loop Neuroscience Tutorial
 
