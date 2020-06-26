@@ -66,6 +66,8 @@ RTXI: <http://rtxi.org/>
 | 17:30-17:45h Berlin Time <br> 11:30-11:45h New York Time | Break |
 | 17:45-19:00h Berlin Time <br> 11:45-13:00h New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
 
+**Tutorial slides will be published here soon**
+
 ## References and background reading
 
 [M. Reyes-Sanchez, R. Amaducci, I. Elices, F.B. Rodriguez, P. Varona. 2020. Automatic
