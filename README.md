@@ -14,7 +14,7 @@
 
 ## Join the session
 
-https://meet.google.com/cgc-wuvm-idx
+[https://meet.google.com/cgc-wuvm-idx](https://meet.google.com/cgc-wuvm-idx)
 
 ## Organizers
 
