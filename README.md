@@ -12,6 +12,10 @@
 
 [*CNS\*2020 webpage*](https://www.cnsorg.org/cns-2020) and [*OCNS webpage*](https://www.cnsorg.org/).
 
+## Join the session
+
+https://meet.google.com/cgc-wuvm-idx
+
 ## Organizers
 
 | Name | Email |
