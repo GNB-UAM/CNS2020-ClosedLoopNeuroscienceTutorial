@@ -58,7 +58,10 @@ RTHybrid: <https://github.com/GNB-UAM/RTHybrid>
 
 RTXI: <http://rtxi.org/>
 
-**Important:** For the practical part of the tutorial, please download beforehand the latest RTXI version from <http://rtxi.org/install/> and install it. It is not necesary to install it completely in your computer for this tutorial, you can just burn the image to a live-USB following the instructions on the web or install it on a Virtual Machine.
+### Important
+For the practical part of the tutorial, please download beforehand the latest **RTXI** version from <http://rtxi.org/install/>. It is not necesary to install it in your computer for this tutorial, you can just use it from a live-USB and boot from the live image following the instructions on the web or install it on a virtual machine.
+
+Also, please download **RTHybrid modules for RTXI** from <https://github.com/GNB-UAM/rthybrid-for-rtxi> and install them following the instructions.
 
 ## Tutorial content and schedule
 
