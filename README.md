@@ -1,9 +1,7 @@
+# Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.uam.es/"> <img src="https://raw.githubusercontent.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/master/_assets/uam.png" width="335" height="65"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
 <a target="_blank" rel="noopener noreferrer" href="https://www.cnsorg.org/"> <img src="https://raw.githubusercontent.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/master/_assets/ocns.png" width="335" height="65"> </a>
-
-## Closed-Loop Neuroscience Tutorial
-
-**Tools and techniques to bridge the gap between models and closed-loop neuroscience experiments**
 
 | CNS 2020 half-day tutorial |  July 18th   |
 |--------------|--------------|
