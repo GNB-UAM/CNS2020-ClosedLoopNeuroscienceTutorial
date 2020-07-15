@@ -76,10 +76,6 @@ RTXI: <http://rtxi.org/>
 
 [M. Reyes-Sanchez, R. Amaducci, I. Elices, F.B. Rodriguez, P. Varona. 2020. Automatic
 adaptation of model neurons and connections to build hybrid circuits with living networks.
-Neuroinformatics.](https://link.springer.com/article/10.1007/s12021-019-09440-z)
-
-[M. Reyes-Sanchez, R. Amaducci, I. Elices, F.B. Rodriguez, P. Varona. 2020. Automatic
-adaptation of model neurons and connections to build hybrid circuits with living networks.
 Neuroinformatics  18: 377–393](https://link.springer.com/article/10.1007/s12021-019-09440-z)
 
 [R. Amaducci, M. Reyes-Sanchez, I. Elices, F.B. Rodriguez, P. Varona. 2019. RTHybrid: A
