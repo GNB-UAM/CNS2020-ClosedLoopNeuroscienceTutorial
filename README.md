@@ -77,7 +77,7 @@ Also, please download **RTHybrid modules for RTXI** from <https://github.com/GNB
 | 17:30-17:45h Berlin Time <br> 11:30-11:45h New York Time | Break |
 | 17:45-19:00h Berlin Time <br> 11:45-13:00h New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
 
-**PDF of the presentations and video of the sesion will be available here after the talks and during the conference**
+**PDF of the presentations and video of the sessions will be available here after the talks and during the conference**
 
 ## References and background reading
 
