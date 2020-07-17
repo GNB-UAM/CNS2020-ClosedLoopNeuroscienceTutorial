@@ -16,7 +16,7 @@
 
 ### Instructions to the attendees
 
-Please do not forget to register for the conference. Registration is free at https://www.cnsorg.org/cns-2020
+Please do not forget to register for the conference. Registration is free at [https://www.cnsorg.org/cns-2020](https://www.cnsorg.org/cns-2020)
 
 Please, use the chat to ask questions 
 
