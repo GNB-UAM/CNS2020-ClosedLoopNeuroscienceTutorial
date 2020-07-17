@@ -16,6 +16,8 @@
 
 ### Instructions to the attendees
 
+Please do not forget to register for the conference. Registration is free at https://www.cnsorg.org/cns-2020
+
 Please, use the chat to ask questions 
 
 Please, mute your microphone and turn off your camera during the talks and only turn them on to ask your question when indicated by the speaker  who will select the order of the questions
@@ -62,7 +64,8 @@ RTHybrid: <https://github.com/GNB-UAM/RTHybrid>
 
 RTXI: <http://rtxi.org/>
 
-### Important
+## Important demo instructions
+
 For the practical part of the tutorial, please download beforehand the latest **RTXI** version from <http://rtxi.org/install/>. It is not necessary to install it in your computer for this tutorial, you can just create a live-USB and boot from the live image following the instructions on the web or install it on a virtual machine.
 
 Also, please download **RTHybrid modules for RTXI** from <https://github.com/GNB-UAM/rthybrid-for-rtxi> and install them following the instructions.
