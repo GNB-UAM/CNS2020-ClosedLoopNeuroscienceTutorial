@@ -14,6 +14,12 @@
 
 [https://meet.google.com/cgc-wuvm-idx](https://meet.google.com/cgc-wuvm-idx)
 
+### Instructions to the attendees
+
+Please, use the chat to ask questions 
+
+Please, mute your microphone and turn off your camera during the talks and only turn them on to ask your question when indicated by the speaker  who will select the order of the questions
+
 ## Organizers
 
 | Name | Email |
