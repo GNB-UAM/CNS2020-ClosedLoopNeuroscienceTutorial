@@ -80,25 +80,29 @@ Also, please download **RTHybrid modules for RTXI** from <https://github.com/GNB
 | 17:30-17:45h Berlin Time <br> 11:30-11:45h New York Time | Break |
 | 17:45-19:00h Berlin Time <br> 11:45-13:00h New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
 
-**Videos are beeing uploading, check later please**
-
 **Introduction to Closed-loop Neuroscience**
 
 [Presentation slides](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/First_talk.pdf)
+•
+[Video](https://drive.google.com/file/d/1ENmJdgNhcX9y6hkjYnGWj-2ksBHp62LS/view?usp=sharing)
 
 **Hybrid Circuits: interacting living neurons, model neurons and robots**
 
 [Presentation slides](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/Second_talk.pdf)
+•
+[Video](https://drive.google.com/file/d/1kADfaX1OO6XBJsMhDsBGSiNrvK_2qdsw/view?usp=sharing)
 
 **Automatic adaptation and mappings of hybrid circuits**
 
 [Presentation slides](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/Third_talk.pdf)
+•
+[Video](https://drive.google.com/file/d/1_S6az_JyLO8Q6lae-yYwhfvRxUNSWGqN/view?usp=sharing)
 
 **Demo**
 
-[Part 1 - RTXI]()
+[Part 1 - RTXI](https://drive.google.com/file/d/1prZXDjouTNU387Mvft37MczHyV_IPG2c/view?usp=sharing)
 
-[Part 2 - RTHybrid]()
+[Part 2 - RTHybrid](https://drive.google.com/file/d/1P4a02t03K3Oxpm7O1Afiy7_I0gyNJ-AR/view?usp=sharing)
 
 ## References and background reading
 
