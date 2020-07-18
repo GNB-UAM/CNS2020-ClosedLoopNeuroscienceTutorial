@@ -80,7 +80,11 @@ Also, please download **RTHybrid modules for RTXI** from <https://github.com/GNB
 | 17:30-17:45h Berlin Time <br> 11:30-11:45h New York Time | Break |
 | 17:45-19:00h Berlin Time <br> 11:45-13:00h New York Time | Software installation, software demos, interactive discussion | Rodrigo Amaducci <br> Manuel Reyes-Sánchez |
 
-**PDF of the presentations and video of the sessions will be available here after the talks and during the conference**
+[*Introduction to Closed-loop Neuroscience Slides*](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/First_talk.pdf)
+
+[*Hybrid Circuits: interacting living neurons, model neurons and robots*](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/Second_talk.pdf)
+
+[*Automatic adaptation and mappings of hybrid circuits*](https://github.com/GNB-UAM/CNS2020-ClosedLoopNeuroscienceTutorial/blob/master/Third_talk.pdf)
 
 ## References and background reading
 
